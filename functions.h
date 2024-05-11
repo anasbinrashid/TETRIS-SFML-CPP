@@ -1,7 +1,3 @@
-/* Anas Bin Rashid
-22I-0907
-CS-A
-Final Project */
 
 // Function that causes the Blocks to Drop 
 
