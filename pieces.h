@@ -1,7 +1,3 @@
-/* Anas Bin Rashid
-22I-0907
-CS-A
-Final Project */
 
 //  Creating a 2D array which will be the blocks of Tetris based on position of tetraminos
  
